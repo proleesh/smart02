@@ -8,7 +8,7 @@
 - Java Language
 - MySql 8.X
 - Spring Framework/Boot (Java EE Framework)
-> https://proleesh.github.io
+> https://proleesh.github.io/smart02
 ```
 <!DOCTYPE html>
 <html lang="en">
